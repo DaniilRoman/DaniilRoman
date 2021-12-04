@@ -1,7 +1,4 @@
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40"/>, I'm Daniil and I'm a backend developer.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniilRoman)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilRoman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## My main buzzwords
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
@@ -28,6 +25,10 @@
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
 ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniilRoman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilRoman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **DaniilRoman/DaniilRoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
