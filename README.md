@@ -26,8 +26,8 @@
 ![jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
 ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniilRoman)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilRoman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniilRoman)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilRoman&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **DaniilRoman/DaniilRoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
