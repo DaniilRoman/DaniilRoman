@@ -56,7 +56,7 @@ margin-right: 5px;
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/maven-plugin-to-check-dependencies-versions-318m">Maven plugin to check dependencies versions.</a></h3>
-            <div class="container"><div class="item" style="background-color:  #f8B4AD">java</div> <div class="item" style="background-color:  #f8B44B">maven</div> <div class="item" style="background-color:  #f8B47D">kotlin</div> <div class="item" style="background-color:  #f8B44F">tutorial</div></div>
+            <div class="container"><div class="item" style="background-color:  #f8B40E">java</div> <div class="item" style="background-color:  #f8B447">maven</div> <div class="item" style="background-color:  #f8B483">kotlin</div> <div class="item" style="background-color:  #f8B43A">tutorial</div></div>
         </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ margin-right: 5px;
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/designing-an-application-with-redis-as-a-data-store-what-why-57e3">Designing an application with Redis as a data store. What? Why?</a></h3>
-            <div class="container"><div class="item" style="background-color:  #f8B49B">redis</div> <div class="item" style="background-color:  #f8B46F">kotlin</div> <div class="item" style="background-color:  #f8B4F1">java</div> <div class="item" style="background-color:  #f8B49E">architecture</div></div>
+            <div class="container"><div class="item" style="background-color:  #f8B48F">redis</div> <div class="item" style="background-color:  #f8B4F4">kotlin</div> <div class="item" style="background-color:  #f8B45B">java</div> <div class="item" style="background-color:  #f8B4D8">architecture</div></div>
         </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@ margin-right: 5px;
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/how-we-built-elasticsearch-index-8hh">How we built Elasticsearch index</a></h3>
-            <div class="container"><div class="item" style="background-color:  #f8B4FC">database</div> <div class="item" style="background-color:  #f8B4DC">architecture</div> <div class="item" style="background-color:  #f8B44C">elasticsearch</div></div>
+            <div class="container"><div class="item" style="background-color:  #f8B4EC">database</div> <div class="item" style="background-color:  #f8B4A9">architecture</div> <div class="item" style="background-color:  #f8B429">elasticsearch</div></div>
         </td>
     </tr>
 </table>
