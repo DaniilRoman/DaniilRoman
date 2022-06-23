@@ -56,7 +56,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/maven-plugin-to-check-dependencies-versions-318m">Maven plugin to check dependencies versions.</a></h3>
-            <div class="container"><div class="item" style="background-color:  #f8B40E">java</div> <div class="item" style="background-color:  #f8B447">maven</div> <div class="item" style="background-color:  #f8B483">kotlin</div> <div class="item" style="background-color:  #f8B43A">tutorial</div></div>
+            <div class="container">java, maven, kotlin, tutorial</div>
         </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/designing-an-application-with-redis-as-a-data-store-what-why-57e3">Designing an application with Redis as a data store. What? Why?</a></h3>
-            <div class="container"><div class="item" style="background-color:  #f8B48F">redis</div> <div class="item" style="background-color:  #f8B4F4">kotlin</div> <div class="item" style="background-color:  #f8B45B">java</div> <div class="item" style="background-color:  #f8B4D8">architecture</div></div>
+            <div class="container">redis, kotlin, java, architecture</div>
         </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/how-we-built-elasticsearch-index-8hh">How we built Elasticsearch index</a></h3>
-            <div class="container"><div class="item" style="background-color:  #f8B4EC">database</div> <div class="item" style="background-color:  #f8B4A9">architecture</div> <div class="item" style="background-color:  #f8B429">elasticsearch</div></div>
+            <div class="container">database, architecture, elasticsearch</div>
         </td>
     </tr>
 </table>
