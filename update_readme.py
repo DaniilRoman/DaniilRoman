@@ -30,13 +30,16 @@ LATEST_ARTICLES_START = '<!-- latest articles start -->'
 LATEST_ARTICLES_END = '<!-- latest articles end -->'
 REPLACE_PATTERN = re.compile(rf'({LATEST_ARTICLES_START}).*({LATEST_ARTICLES_END})', re.DOTALL)
 
+IMG_TEMPLATE = '<img src="https://img.shields.io/static/v1?style=for-the-badge&message={item}&color={color}&logo={item}&logoColor=FFFFFF&label=" alt="{item}">'
+
 
 def add_row(feed_entry):
-    r = lambda: random.randint(0, 255)
-    collor = lambda: 'style="background-color:  #f8B4%02X"' % (r())
+    # color = lambda: 'style="background-color:  #f8B4%02X"' % (r())
+    # tags = "<div class=\"container\">" + " ".join([f"<div class=\"item\" {color()}>{i.term}</div>" for i in feed_entry.tags]) + "</div>"
+    r = lambda: random.randint(10, 100)
+    color = lambda: f"77{r()}{r()}"
     title = f'<h3><a href="{feed_entry.link}">{feed_entry.title}</a></h3>'
-    # tags = "<div class=\"container\">" + " ".join([f"<div class=\"item\" {collor()}>{i.term}</div>" for i in feed_entry.tags]) + "</div>"
-    tags = "<div class=\"container\">" + ", ".join([i.term for i in feed_entry.tags]) + "</div>"
+    tags = "<div class=\"container\">" + " ".join([IMG_TEMPLATE.format(item=i.term, color=color()) for i in feed_entry.tags]) + "</div>"
 
     page = requests.get(feed_entry.link)
     soup = BeautifulSoup(page.text, "html.parser")
@@ -56,11 +59,12 @@ def update_readme(updated_table):
         readme.truncate()
 
 
-res = feedparser.parse("https://dev.to/feed/daniilroman")
+if __name__ == '__main__':
+    res = feedparser.parse("https://dev.to/feed/daniilroman")
 
-rows = ''
-for entry in res.entries[0:5]:
-    rows += add_row(entry)
+    rows = ''
+    for entry in res.entries[0:5]:
+        rows += add_row(entry)
 
-updated_table = TABLE_TEMPLATE.format(rows=rows.strip())
-update_readme(updated_table)
+    updated_table = TABLE_TEMPLATE.format(rows=rows.strip())
+    update_readme(updated_table)
