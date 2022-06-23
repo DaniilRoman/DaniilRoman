@@ -34,19 +34,19 @@
 
 ### My Latest Articles
 
-<style>
-.container {
-display: flex;
-}
-.item {
-color: black; 
-font-size: 16px; 
-background-color: antiquewhite; 
-padding: 1px 4px; 
-border-radius: 5px; 
-margin-right: 5px;
-}
-</style>
+[//]: # (<style>)
+[//]: # (.container {)
+[//]: # (display: flex;)
+[//]: # (})
+[//]: # (.item {)
+[//]: # (color: black; )
+[//]: # (font-size: 16px; )
+[//]: # (background-color: antiquewhite; )
+[//]: # (padding: 1px 4px; )
+[//]: # (border-radius: 5px; )
+[//]: # (margin-right: 5px;)
+[//]: # (})
+[//]: # (</style>)
 
 <!-- latest articles start -->
 <table style="border-radius: 5px">

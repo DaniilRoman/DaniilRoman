@@ -35,7 +35,8 @@ def add_row(feed_entry):
     r = lambda: random.randint(0, 255)
     collor = lambda: 'style="background-color:  #f8B4%02X"' % (r())
     title = f'<h3><a href="{feed_entry.link}">{feed_entry.title}</a></h3>'
-    tags = "<div class=\"container\">" + " ".join([f"<div class=\"item\" {collor()}>{i.term}</div>" for i in feed_entry.tags]) + "</div>"
+    # tags = "<div class=\"container\">" + " ".join([f"<div class=\"item\" {collor()}>{i.term}</div>" for i in feed_entry.tags]) + "</div>"
+    tags = "<div class=\"container\">" + ", ".join([i.term for i in feed_entry.tags]) + "</div>"
 
     page = requests.get(feed_entry.link)
     soup = BeautifulSoup(page.text, "html.parser")
