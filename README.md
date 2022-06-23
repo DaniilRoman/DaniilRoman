@@ -1,6 +1,6 @@
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40"/>, I'm Daniil and I'm a backend developer.
 
-## My main buzzwords
+### My main buzzwords
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) 
@@ -24,20 +24,58 @@
 ![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniilRoman)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilRoman&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+### Connect with me 🔗
+<p align="left">
+  <a href="https://dev.to/daniilroman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@domenicosibilio" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/daniil-roman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsibilio" height="30" width="40" /></a>
+  <a href="https://twitter.com/de____ro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="domsibilio" height="30" width="40" /></a>
+</p>
 
-<!--
-**DaniilRoman/DaniilRoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My Latest Articles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<style>
+.container {
+display: flex;
+}
+.item {
+color: black; 
+font-size: 16px; 
+background-color: antiquewhite; 
+padding: 1px 4px; 
+border-radius: 5px; 
+margin-right: 5px;
+}
+</style>
+
+<!-- latest articles start -->
+<table style="border-radius: 5px">
+    <tr>
+        <td>
+            <img alt="Cover image for Maven plugin to check dependencies versions." class="crayons-article__cover__image" height="100" src="https://res.cloudinary.com/practicaldev/image/fetch/s--59egxuWm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/72ebr606rvtzub81ozqw.jpg" style="background-color:#dddddd;" width="200"/>
+        </td>
+        <td>
+            <h3><a href="https://dev.to/daniilroman/maven-plugin-to-check-dependencies-versions-318m">Maven plugin to check dependencies versions.</a></h3>
+            <div class="container"><div class="item" style="background-color:  #f8B4AD">java</div> <div class="item" style="background-color:  #f8B44B">maven</div> <div class="item" style="background-color:  #f8B47D">kotlin</div> <div class="item" style="background-color:  #f8B44F">tutorial</div></div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="Cover image for Designing an application with Redis as a data store. What? Why?" class="crayons-article__cover__image" height="100" src="https://res.cloudinary.com/practicaldev/image/fetch/s--8X0yENKK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4gn35c6zrrh0ktk9g7y.png" style="background-color:#dddddd;" width="200"/>
+        </td>
+        <td>
+            <h3><a href="https://dev.to/daniilroman/designing-an-application-with-redis-as-a-data-store-what-why-57e3">Designing an application with Redis as a data store. What? Why?</a></h3>
+            <div class="container"><div class="item" style="background-color:  #f8B49B">redis</div> <div class="item" style="background-color:  #f8B46F">kotlin</div> <div class="item" style="background-color:  #f8B4F1">java</div> <div class="item" style="background-color:  #f8B49E">architecture</div></div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="Cover image for How we built Elasticsearch index" class="crayons-article__cover__image" height="100" src="https://res.cloudinary.com/practicaldev/image/fetch/s--7r65A-co--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jy3y8d5oi53scwfyqjmg.png" style="background-color:#dddddd;" width="200"/>
+        </td>
+        <td>
+            <h3><a href="https://dev.to/daniilroman/how-we-built-elasticsearch-index-8hh">How we built Elasticsearch index</a></h3>
+            <div class="container"><div class="item" style="background-color:  #f8B4FC">database</div> <div class="item" style="background-color:  #f8B4DC">architecture</div> <div class="item" style="background-color:  #f8B44C">elasticsearch</div></div>
+        </td>
+    </tr>
+</table>
+<!-- latest articles end -->
