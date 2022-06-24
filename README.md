@@ -26,9 +26,9 @@
 
 ### Connect with me 🔗
 <p align="left">
-  <a href="https://dev.to/daniilroman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@domenicosibilio" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/daniil-roman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsibilio" height="30" width="40" /></a>
-  <a href="https://twitter.com/de____ro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="domsibilio" height="30" width="40" /></a>
+  <a href="https://dev.to/daniilroman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@daniilroman" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/daniil-roman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniil-roman" height="30" width="40" /></a>
+  <a href="https://twitter.com/de____ro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="de____ro" height="30" width="40" /></a>
 </p>
 
 
