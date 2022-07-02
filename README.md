@@ -33,7 +33,7 @@
 </p>
 
 
-### My Latest Articles
+### My latest articles
 
 [//]: # (<style>)
 [//]: # (.container {)
