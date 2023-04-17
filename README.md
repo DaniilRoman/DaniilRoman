@@ -30,6 +30,7 @@
   <a href="https://linkedin.com/in/daniil-roman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniil-roman" height="30" width="40" /></a>
 </p>
 
+#### My CV: [Daniil Roman](https://docs.google.com/document/d/1oYvAFRyBdb5ul0jLJwk9x_P9XnV3EFJLth1_nWNrUPE/edit?usp=sharing)
 
 ### My latest articles
 
