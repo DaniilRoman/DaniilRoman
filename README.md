@@ -56,7 +56,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/re2j-instead-of-default-regex-in-java-when-and-how-to-use-it-5bgn">Re2j instead of default regEx in Java: when and how to use it</a></h3>
-            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=772280&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=773982&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=regex&color=774768&logo=regex&logoColor=FFFFFF&label=" alt="regex"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=re2j&color=777296&logo=re2j&logoColor=FFFFFF&label=" alt="re2j"></div>
+            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=772486&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=772416&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=regex&color=777755&logo=regex&logoColor=FFFFFF&label=" alt="regex"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=re2j&color=779537&logo=re2j&logoColor=FFFFFF&label=" alt="re2j"></div>
         </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/maven-plugin-to-check-dependencies-versions-318m">Maven plugin to check dependency versions</a></h3>
-            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=779024&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=maven&color=774286&logo=maven&logoColor=FFFFFF&label=" alt="maven"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=771150&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=tutorial&color=778258&logo=tutorial&logoColor=FFFFFF&label=" alt="tutorial"></div>
+            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=772893&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=maven&color=779531&logo=maven&logoColor=FFFFFF&label=" alt="maven"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=779072&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=tutorial&color=778039&logo=tutorial&logoColor=FFFFFF&label=" alt="tutorial"></div>
         </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/designing-an-application-with-redis-as-a-data-store-what-why-57e3">Designing an application with Redis as a data store. What? Why?</a></h3>
-            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=redis&color=776561&logo=redis&logoColor=FFFFFF&label=" alt="redis"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=778224&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=779268&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=architecture&color=779336&logo=architecture&logoColor=FFFFFF&label=" alt="architecture"></div>
+            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=redis&color=772379&logo=redis&logoColor=FFFFFF&label=" alt="redis"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=772710&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=774143&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=architecture&color=771496&logo=architecture&logoColor=FFFFFF&label=" alt="architecture"></div>
         </td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/how-we-built-elasticsearch-index-8hh">How we built Elasticsearch index</a></h3>
-            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=database&color=778497&logo=database&logoColor=FFFFFF&label=" alt="database"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=architecture&color=774214&logo=architecture&logoColor=FFFFFF&label=" alt="architecture"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=elasticsearch&color=779731&logo=elasticsearch&logoColor=FFFFFF&label=" alt="elasticsearch"></div>
+            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=database&color=779592&logo=database&logoColor=FFFFFF&label=" alt="database"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=architecture&color=774921&logo=architecture&logoColor=FFFFFF&label=" alt="architecture"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=elasticsearch&color=777327&logo=elasticsearch&logoColor=FFFFFF&label=" alt="elasticsearch"></div>
         </td>
     </tr>
 </table>
