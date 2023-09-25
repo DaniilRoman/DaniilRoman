@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40"/>, I'm Daniil and I'm a backend developer.
+### Hi 👋, I'm Daniil and I'm a backend developer.
 
 ### My main buzzwords
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
