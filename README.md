@@ -56,7 +56,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/github-innovation-graph-analysis-27m3">GitHub Innovation Graph analysis</a></h3>
-            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=github&color=776981&logo=github&logoColor=FFFFFF&label=" alt="github"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=innovationgraph&color=779018&logo=innovationgraph&logoColor=FFFFFF&label=" alt="innovationgraph"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=analytics&color=778248&logo=analytics&logoColor=FFFFFF&label=" alt="analytics"></div>
+            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=github&color=771048&logo=github&logoColor=FFFFFF&label=" alt="github"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=innovationgraph&color=772339&logo=innovationgraph&logoColor=FFFFFF&label=" alt="innovationgraph"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=analytics&color=7723100&logo=analytics&logoColor=FFFFFF&label=" alt="analytics"></div>
         </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/would-your-grandma-use-a-voice-chat-bot-hca">Would your grandma use a voice chat-bot?</a></h3>
-            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=chatbot&color=775295&logo=chatbot&logoColor=FFFFFF&label=" alt="chatbot"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=cloud&color=776266&logo=cloud&logoColor=FFFFFF&label=" alt="cloud"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=serverless&color=777243&logo=serverless&logoColor=FFFFFF&label=" alt="serverless"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=architecture&color=779353&logo=architecture&logoColor=FFFFFF&label=" alt="architecture"></div>
+            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=chatbot&color=776765&logo=chatbot&logoColor=FFFFFF&label=" alt="chatbot"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=cloud&color=772341&logo=cloud&logoColor=FFFFFF&label=" alt="cloud"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=serverless&color=773714&logo=serverless&logoColor=FFFFFF&label=" alt="serverless"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=architecture&color=776032&logo=architecture&logoColor=FFFFFF&label=" alt="architecture"></div>
         </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/re2j-instead-of-default-regex-in-java-when-and-how-to-use-it-5bgn">Re2j instead of default regEx in Java: when and how to use it</a></h3>
-            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=771762&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=779789&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=regex&color=771136&logo=regex&logoColor=FFFFFF&label=" alt="regex"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=re2j&color=778056&logo=re2j&logoColor=FFFFFF&label=" alt="re2j"></div>
+            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=777699&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=772480&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=regex&color=779811&logo=regex&logoColor=FFFFFF&label=" alt="regex"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=re2j&color=772213&logo=re2j&logoColor=FFFFFF&label=" alt="re2j"></div>
         </td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/maven-plugin-to-check-dependencies-versions-318m">Maven plugin to check dependency versions</a></h3>
-            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=775410&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=maven&color=772490&logo=maven&logoColor=FFFFFF&label=" alt="maven"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=772465&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=tutorial&color=777418&logo=tutorial&logoColor=FFFFFF&label=" alt="tutorial"></div>
+            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=779096&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=maven&color=772776&logo=maven&logoColor=FFFFFF&label=" alt="maven"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=772098&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=tutorial&color=778423&logo=tutorial&logoColor=FFFFFF&label=" alt="tutorial"></div>
         </td>
     </tr>
     <tr>
@@ -92,7 +92,7 @@
         </td>
         <td>
             <h3><a href="https://dev.to/daniilroman/designing-an-application-with-redis-as-a-data-store-what-why-57e3">Designing an application with Redis as a data store. What? Why?</a></h3>
-            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=redis&color=776987&logo=redis&logoColor=FFFFFF&label=" alt="redis"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=771917&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=776925&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=architecture&color=775574&logo=architecture&logoColor=FFFFFF&label=" alt="architecture"></div>
+            <div class="container"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=redis&color=777280&logo=redis&logoColor=FFFFFF&label=" alt="redis"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=kotlin&color=779382&logo=kotlin&logoColor=FFFFFF&label=" alt="kotlin"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=775130&logo=java&logoColor=FFFFFF&label=" alt="java"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=architecture&color=771687&logo=architecture&logoColor=FFFFFF&label=" alt="architecture"></div>
         </td>
     </tr>
 </table>
