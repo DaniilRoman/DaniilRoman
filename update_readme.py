@@ -51,7 +51,7 @@ def add_row(feed_entry):
     # page = requests.get(feed_entry.link)
     # soup = BeautifulSoup(page.text, "html.parser")
     # img = soup.find('img', class_='crayons-article__cover__image')
-    img = feed_entry.image.url
+    img = "" # TODO refactor and fix img
     # img['height'] = '100'
     # img['width'] = '200'
 
