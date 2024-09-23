@@ -12,10 +12,17 @@ TABLE_TEMPLATE = """
 </table>
 """
 
+# LATEST_ARTICLE_TEMPLATE = """    <tr>
+#         <td>
+#             {banner}
+#         </td>
+#         <td>
+#             {title}
+#             {description}
+#         </td>
+#     </tr>
+# """
 LATEST_ARTICLE_TEMPLATE = """    <tr>
-        <td>
-            {banner}
-        </td>
         <td>
             {title}
             {description}
@@ -41,11 +48,12 @@ def add_row(feed_entry):
     title = f'<h3><a href="{feed_entry.link}">{feed_entry.title}</a></h3>'
     tags = "<div class=\"container\">" + " ".join([IMG_TEMPLATE.format(item=i.term, color=color()) for i in feed_entry.tags]) + "</div>"
 
-    page = requests.get(feed_entry.link)
-    soup = BeautifulSoup(page.text, "html.parser")
-    img = soup.find('img', class_='crayons-article__cover__image')
-    img['height'] = '100'
-    img['width'] = '200'
+    # page = requests.get(feed_entry.link)
+    # soup = BeautifulSoup(page.text, "html.parser")
+    # img = soup.find('img', class_='crayons-article__cover__image')
+    img = feed_entry.image.url
+    # img['height'] = '100'
+    # img['width'] = '200'
 
     return LATEST_ARTICLE_TEMPLATE.format(banner=img, title=title, description=tags)
 
